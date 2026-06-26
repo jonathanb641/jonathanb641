@@ -1,4 +1,11 @@
 ## Hi there 👋
+* i go to George Westinghouse college Prep
+* my first piece of technology was an andriod type of tablet it was pretty small.
+- I was born and raised in Chicago, IL.
+- My study interests are things that include STEM because one of my strongest subjects is math and i plan on working as a software or mechanical engineer in the future
+- i am someone who has not known what i have wanted to be for a really long time because it it always changing from manythings but as of right now i am thinking of focusing on being a software or mechanical enigneer but im leaning mostly on being a software becuase i wanna learn to code alot more.
+- (https://www.google.com/imgres?q%3Dan%20animated%20person%20who%20looks%20interested%20in%20learning%20more%20about%20coding%26imgurl%3Dhttps%3A%2F%2Fimg.magnific.com%2Fpremium-vector%2Fboy-is-sitting-desk-with-laptop-word-code-it_1177960-38395.jpg%26imgrefurl%3Dhttps%3A%2F%2Fwww.magnific.com%2Ffree-photos-vectors%2Fcartoon-student-programming%26docid%3DUnX5vz-YiHAdIM%26tbnid%3Dppkvl4wo9PLw1M%26vet%3D12ahUKEwji4eKcr6WVAxWkiSsGHQ9CPAkQnPAOegQIGxAB..i%26w%3D626%26h%3D626%26hcb%3D2%26ved%3D2ahUKEwji4eKcr6WVAxWkiSsGHQ9CPAkQnPAOegQIGxAB)
+
 
 <!--
 **jonathanb641/jonathanb641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
